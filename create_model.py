@@ -1,4 +1,4 @@
-from .vit3D import ViT3D
+from .IBA import ViT3D
 from timm import create_model
 import torchvision.models as models
 import torch
